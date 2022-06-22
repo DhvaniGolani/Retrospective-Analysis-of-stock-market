@@ -3,5 +3,4 @@
 Assuming that news articles have impact on stock market, this is an attempt to
 study relationship between news and stock trend.
 
-Model
-![image](https://user-images.githubusercontent.com/97143576/175066971-10806d53-dc93-47a7-a6f7-d5425bad7db7.png)
+<img width="539" alt="image" src="https://user-images.githubusercontent.com/97143576/175067166-240ff792-a045-4780-8177-4f946337fbde.png">
